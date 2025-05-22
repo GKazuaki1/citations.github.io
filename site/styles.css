@@ -258,13 +258,13 @@ h1 {
 
 .author {
     font-style: normal;
-    font-size: 1.1em;
+    font-size: 2.1em;
     font-weight: bold;
     text-align: center;
     color: #7f8c8d;
-    border: 10px;
+    border: 25px;
     background-color: #2c3e50;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .news {
@@ -412,6 +412,18 @@ h1 {
 	.quote img {
 		max-height: 300px;
 		max-width: 150px;
+	}
+
+	.author {
+	font-style: normal;
+  	font-size: 1.1em;
+  	font-weight: bold;
+  	text-align: center;
+  	color: white;
+  	border: 15px;
+  	background-color: #2c3e50; 
+  	margin-top: 10px;
+		
 	}
 	
 }
