@@ -1,4 +1,4 @@
-/* Общий стиль страницы */
+/* ГЋГЎГ№ГЁГ© Г±ГІГЁГ«Гј Г±ГІГ°Г Г­ГЁГ¶Г» */
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #f4f4f4;
@@ -9,35 +9,35 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 48px; /* увеличиваем размер */
+    font-size: 48px; /* ГіГўГҐГ«ГЁГ·ГЁГўГ ГҐГ¬ Г°Г Г§Г¬ГҐГ° */
     margin-bottom: 30px;
-    color: #2c3e50; /* темный оттенок для контраста */
-    font-weight: 700; /* жирный */
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2); /* легкая тень */
-    letter-spacing: 2px; /* чуть больше расстояния между буквами */
+    color: #2c3e50; /* ГІГҐГ¬Г­Г»Г© Г®ГІГІГҐГ­Г®ГЄ Г¤Г«Гї ГЄГ®Г­ГІГ°Г Г±ГІГ  */
+    font-weight: 700; /* Г¦ГЁГ°Г­Г»Г© */
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2); /* Г«ГҐГЈГЄГ Гї ГІГҐГ­Гј */
+    letter-spacing: 2px; /* Г·ГіГІГј ГЎГ®Г«ГјГёГҐ Г°Г Г±Г±ГІГ®ГїГ­ГЁГї Г¬ГҐГ¦Г¤Гі ГЎГіГЄГўГ Г¬ГЁ */
 }
 
 .main-title {
-    display: block; /* делаем блочным элементом, чтобы растянуть по ширине */
-    width: 100%; /* ширина на всю страницу */
-    padding: 20px 0; /* вертикальные отступы для удобства */
-    font-size: 48px; /* размер шрифта */
-    font-weight: bold; /* жирное выделение */
-    text-align: center; /* центрируем текст внутри */
-    background-color: #d0e6f8; /* бледно-синий фон */
-    color: #000; /* черный цвет шрифта */
-    text-decoration: none; /* убираем подчеркивание */
-    cursor: pointer; /* курсор в виде указателя */
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* легкая тень */
+    display: block; /* Г¤ГҐГ«Г ГҐГ¬ ГЎГ«Г®Г·Г­Г»Г¬ ГЅГ«ГҐГ¬ГҐГ­ГІГ®Г¬, Г·ГІГ®ГЎГ» Г°Г Г±ГІГїГ­ГіГІГј ГЇГ® ГёГЁГ°ГЁГ­ГҐ */
+    width: 100%; /* ГёГЁГ°ГЁГ­Г  Г­Г  ГўГ±Гѕ Г±ГІГ°Г Г­ГЁГ¶Гі */
+    padding: 20px 0; /* ГўГҐГ°ГІГЁГЄГ Г«ГјГ­Г»ГҐ Г®ГІГ±ГІГіГЇГ» Г¤Г«Гї ГіГ¤Г®ГЎГ±ГІГўГ  */
+    font-size: 48px; /* Г°Г Г§Г¬ГҐГ° ГёГ°ГЁГґГІГ  */
+    font-weight: bold; /* Г¦ГЁГ°Г­Г®ГҐ ГўГ»Г¤ГҐГ«ГҐГ­ГЁГҐ */
+    text-align: center; /* Г¶ГҐГ­ГІГ°ГЁГ°ГіГҐГ¬ ГІГҐГЄГ±ГІ ГўГ­ГіГІГ°ГЁ */
+    background-color: #d0e6f8; /* ГЎГ«ГҐГ¤Г­Г®-Г±ГЁГ­ГЁГ© ГґГ®Г­ */
+    color: #000; /* Г·ГҐГ°Г­Г»Г© Г¶ГўГҐГІ ГёГ°ГЁГґГІГ  */
+    text-decoration: none; /* ГіГЎГЁГ°Г ГҐГ¬ ГЇГ®Г¤Г·ГҐГ°ГЄГЁГўГ Г­ГЁГҐ */
+    cursor: pointer; /* ГЄГіГ°Г±Г®Г° Гў ГўГЁГ¤ГҐ ГіГЄГ Г§Г ГІГҐГ«Гї */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Г«ГҐГЈГЄГ Гї ГІГҐГ­Гј */
     transition: background-color 0.3s, transform 0.2s;
 }
 
     .main-title:hover {
-        background-color: #bfcde0; /* чуть темнее при наведении */
-        transform: translateY(-2px); /* эффект при наведении */
+        background-color: #bfcde0; /* Г·ГіГІГј ГІГҐГ¬Г­ГҐГҐ ГЇГ°ГЁ Г­Г ГўГҐГ¤ГҐГ­ГЁГЁ */
+        transform: translateY(-2px); /* ГЅГґГґГҐГЄГІ ГЇГ°ГЁ Г­Г ГўГҐГ¤ГҐГ­ГЁГЁ */
     }
 
-/* Общий контейнер */
+/* ГЋГЎГ№ГЁГ© ГЄГ®Г­ГІГҐГ©Г­ГҐГ° */
 .list_container {
     display: flex;
     flex-direction: column;
@@ -49,7 +49,7 @@ h1 {
     padding: 0 20px;
 }
 
-/* Навигация */
+/* ГЌГ ГўГЁГЈГ Г¶ГЁГї */
 .nav-buttons {
     display: flex;
     gap: 10px;
@@ -74,7 +74,7 @@ h1 {
             transform: translateY(-2px);
         }
 
-/*Поиск*/
+/*ГЏГ®ГЁГ±ГЄ*/
 .search-container {
     display: flex;
     justify-content: center;
@@ -107,26 +107,26 @@ h1 {
             transform: translateY(-2px);
         }
 
-/* Листаемый блок */
+/* Г‹ГЁГ±ГІГ ГҐГ¬Г»Г© ГЎГ«Г®ГЄ */
 .scrolling-block {
-    overflow-x: auto; /* горизонтальный скролл */
-    width: 100%; /* занимает всю ширину */
+    overflow-x: auto; /* ГЈГ®Г°ГЁГ§Г®Г­ГІГ Г«ГјГ­Г»Г© Г±ГЄГ°Г®Г«Г« */
+    width: 100%; /* Г§Г Г­ГЁГ¬Г ГҐГІ ГўГ±Гѕ ГёГЁГ°ГЁГ­Гі */
     display: flex;
-    justify-content: center; /* по центру контейнера */
+    justify-content: center; /* ГЇГ® Г¶ГҐГ­ГІГ°Гі ГЄГ®Г­ГІГҐГ©Г­ГҐГ°Г  */
     padding: 10px 20px;
     margin-bottom: 40px;
 }
 
-/* Контейнер карточек */
+/* ГЉГ®Г­ГІГҐГ©Г­ГҐГ° ГЄГ Г°ГІГ®Г·ГҐГЄ */
 .cards {
     display: flex;
     flex-direction: row;
-    gap: 20px; /* промежутки между карточками */
+    gap: 20px; /* ГЇГ°Г®Г¬ГҐГ¦ГіГІГЄГЁ Г¬ГҐГ¦Г¤Гі ГЄГ Г°ГІГ®Г·ГЄГ Г¬ГЁ */
 }
 
-/* Стиль каждой карточки */
+/* Г‘ГІГЁГ«Гј ГЄГ Г¦Г¤Г®Г© ГЄГ Г°ГІГ®Г·ГЄГЁ */
 .card {
-    flex-shrink: 0; /* чтобы карточки не уменьшались при сжатии */
+    flex-shrink: 0; /* Г·ГІГ®ГЎГ» ГЄГ Г°ГІГ®Г·ГЄГЁ Г­ГҐ ГіГ¬ГҐГ­ГјГёГ Г«ГЁГ±Гј ГЇГ°ГЁ Г±Г¦Г ГІГЁГЁ */
     min-width: 180px;
     background-color: #ffffff;
     border-radius: 10px;
@@ -138,7 +138,7 @@ h1 {
     transition: transform 0.2s, box-shadow 0.2s;
 }
 
-    /* Картинка внутри карточки */
+    /* ГЉГ Г°ГІГЁГ­ГЄГ  ГўГ­ГіГІГ°ГЁ ГЄГ Г°ГІГ®Г·ГЄГЁ */
     .card img {
         width: 100%;
         height: 150px;
@@ -147,7 +147,7 @@ h1 {
         display: block;
     }
 
-    /* Подпись */
+    /* ГЏГ®Г¤ГЇГЁГ±Гј */
     .card p {
         padding: 10px;
         font-size: 14px;
@@ -168,7 +168,7 @@ h1 {
 .citation {
     display: flex;
     align-items: center;
-    justify-content: space-between; /* добавлено */
+    justify-content: space-between; /* Г¤Г®ГЎГ ГўГ«ГҐГ­Г® */
     background-color: #fff;
     padding: 15px;
     border-radius: 12px;
@@ -184,7 +184,7 @@ h1 {
         height: auto;
         object-fit: cover;
         object-position: center;
-        margin-right: 20px; /* или другое значение, чтобы добавить отступ между картинкой и текстом*/
+        margin-right: 20px; /* ГЁГ«ГЁ Г¤Г°ГіГЈГ®ГҐ Г§Г­Г Г·ГҐГ­ГЁГҐ, Г·ГІГ®ГЎГ» Г¤Г®ГЎГ ГўГЁГІГј Г®ГІГ±ГІГіГЇ Г¬ГҐГ¦Г¤Гі ГЄГ Г°ГІГЁГ­ГЄГ®Г© ГЁ ГІГҐГЄГ±ГІГ®Г¬*/
     }
 
 .citation-text {
@@ -194,23 +194,23 @@ h1 {
     color: #34495e;
 }
 
-/* Эффект при наведении */
+/* ГќГґГґГҐГЄГІ ГЇГ°ГЁ Г­Г ГўГҐГ¤ГҐГ­ГЁГЁ */
 .citation:hover {
     transform: translateY(-3px);
     box-shadow: 0 8px 16px rgba(0,0,0,0.2);
 }
 
-/* Блок цитаты дня */
+/* ГЃГ«Г®ГЄ Г¶ГЁГІГ ГІГ» Г¤Г­Гї */
 .quote-container {
     width: 70%;
     max-width: 900px;
-    height: auto; /* чтобы высота адаптировалась */
+    height: auto; /* Г·ГІГ®ГЎГ» ГўГ»Г±Г®ГІГ  Г Г¤Г ГЇГІГЁГ°Г®ГўГ Г«Г Г±Гј */
     max-height: 700px;
     background-color: white;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    margin: 10px auto; /* центрирование */
+    margin: 10px auto; /* Г¶ГҐГ­ГІГ°ГЁГ°Г®ГўГ Г­ГЁГҐ */
 }
 
 
@@ -218,7 +218,7 @@ h1 {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center; /* чтобы элементы внутри центрировались */
+    justify-content: center; /* Г·ГІГ®ГЎГ» ГЅГ«ГҐГ¬ГҐГ­ГІГ» ГўГ­ГіГІГ°ГЁ Г¶ГҐГ­ГІГ°ГЁГ°Г®ГўГ Г«ГЁГ±Гј */
     padding: 5px;
     margin-right: 20px;
 }
@@ -295,7 +295,7 @@ h1 {
 
     .news a {
         text-decoration: none;
-        color: #007bff; /* Пример цвета ссылок */
+        color: #007bff; /* ГЏГ°ГЁГ¬ГҐГ° Г¶ГўГҐГІГ  Г±Г±Г»Г«Г®ГЄ */
     }
     .content{
         flex: 1;
@@ -331,26 +331,26 @@ h1 {
 
     .last a {
         text-decoration: none;
-        color: #007bff; /* Пример цвета ссылок */
+        color: #007bff; /* ГЏГ°ГЁГ¬ГҐГ° Г¶ГўГҐГІГ  Г±Г±Г»Г«Г®ГЄ */
     }
 
-/* Стиль модального окна */
-/* Стиль модального окна */
+/* Г‘ГІГЁГ«Гј Г¬Г®Г¤Г Г«ГјГ­Г®ГЈГ® Г®ГЄГ­Г  */
+/* Г‘ГІГЁГ«Гј Г¬Г®Г¤Г Г«ГјГ­Г®ГЈГ® Г®ГЄГ­Г  */
 .modal {
-    display: none; /* Скрыто по умолчанию */
-    position: fixed; /* Фиксированное положение */
-    z-index: 1; /* Наверху остальных элементов */
+    display: none; /* Г‘ГЄГ°Г»ГІГ® ГЇГ® ГіГ¬Г®Г«Г·Г Г­ГЁГѕ */
+    position: fixed; /* Г”ГЁГЄГ±ГЁГ°Г®ГўГ Г­Г­Г®ГҐ ГЇГ®Г«Г®Г¦ГҐГ­ГЁГҐ */
+    z-index: 1; /* ГЌГ ГўГҐГ°ГµГі Г®Г±ГІГ Г«ГјГ­Г»Гµ ГЅГ«ГҐГ¬ГҐГ­ГІГ®Гў */
     left: 0;
     top: 0;
     width: 100%;
     height: 100%;
-    overflow: auto; /* Скролл, если контент большой */
-    background-color: rgba(0,0,0,0.4); /* Полупрозрачный фон */
+    overflow: auto; /* Г‘ГЄГ°Г®Г«Г«, ГҐГ±Г«ГЁ ГЄГ®Г­ГІГҐГ­ГІ ГЎГ®Г«ГјГёГ®Г© */
+    background-color: rgba(0,0,0,0.4); /* ГЏГ®Г«ГіГЇГ°Г®Г§Г°Г Г·Г­Г»Г© ГґГ®Г­ */
 }
 
 .modal-content {
     background-color: #fefefe;
-    margin: 15% auto; /* Автоматическое центрирование */
+    margin: 15% auto; /* ГЂГўГІГ®Г¬Г ГІГЁГ·ГҐГ±ГЄГ®ГҐ Г¶ГҐГ­ГІГ°ГЁГ°Г®ГўГ Г­ГЁГҐ */
     padding: 20px;
     border: 1px solid #888;
     width: 300px;
@@ -378,10 +378,10 @@ h1 {
         margin-top: 40px !important;
     }
 
-/* Адаптивность */
+/* ГЂГ¤Г ГЇГІГЁГўГ­Г®Г±ГІГј */
 @media (max-width: 768px) {
     .container {
-        flex-direction: column; /* Элементы будут располагаться друг под другом */
+        flex-direction: column; /* ГќГ«ГҐГ¬ГҐГ­ГІГ» ГЎГіГ¤ГіГІ Г°Г Г±ГЇГ®Г«Г ГЈГ ГІГјГ±Гї Г¤Г°ГіГЈ ГЇГ®Г¤ Г¤Г°ГіГЈГ®Г¬ */
     }
 
     .citation {
@@ -405,13 +405,13 @@ h1 {
 
 
     .citation img {
-        width: 80px;
-        height: 80px;
+        max-width: 80px;
+        max-height: 80px;
     }
 	
 	.quote img {
 		max-height: 300px;
-		max-width: 300px;
+		max-width: 150px;
 	}
 	
 }
